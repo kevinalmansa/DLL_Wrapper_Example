@@ -52,11 +52,11 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <None Include="src\add_numbers_bridge.asm">
+    <MASM Include="src\add_numbers_bridge.asm">
       <Filter>Source Files</Filter>
-    </None>
-    <None Include="src\print_hello_bridge.asm">
+    </MASM>
+    <MASM Include="src\print_hello_bridge.asm">
       <Filter>Source Files</Filter>
-    </None>
+    </MASM>
   </ItemGroup>
 </Project>

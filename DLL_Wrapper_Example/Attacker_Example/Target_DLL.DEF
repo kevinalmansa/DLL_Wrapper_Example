@@ -1,0 +1,6 @@
+; DEF File
+LIBRARY		Target_DLL
+EXPORTS
+; INTERCEPT FUNCTIONS
+	print_hello=print_hello @1
+	add_numbers=add_numbers @3

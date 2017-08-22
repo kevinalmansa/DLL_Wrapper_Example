@@ -19,4 +19,9 @@ extern "C" {
 		printf("%d\n", a + b);
 		return a + b;
 	}
+
+	int		ordinal_test(void) {
+		printf("Called By Ordinal! :D");
+		return 0;
+	}
 }

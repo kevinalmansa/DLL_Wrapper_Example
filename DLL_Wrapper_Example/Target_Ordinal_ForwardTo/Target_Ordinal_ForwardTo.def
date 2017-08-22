@@ -1,0 +1,4 @@
+LIBRARY
+EXPORTS
+	ordinal_forward_test		@1	NONAME
+	named_forward_test			@2

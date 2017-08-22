@@ -1,0 +1,6 @@
+LIBRARY Target_DLL
+EXPORTS
+	print_hello		@1
+	print_dll_name	@2
+	add_numbers		@3
+	ordinal_test	@4	NONAME
